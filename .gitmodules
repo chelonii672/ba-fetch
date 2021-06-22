@@ -1,0 +1,15 @@
+[submodule "lib/zfetch"]
+	path = lib/zfetch
+	url = https://github.com/truemedian/zfetch
+[submodule "lib/hzzp"]
+	path = lib/hzzp
+	url = https://github.com/truemedian/hzzp
+[submodule "lib/iguanaTLS"]
+	path = lib/iguanaTLS
+	url = https://github.com/alexnask/iguanaTLS
+[submodule "lib/zig-network"]
+	path = lib/zig-network
+	url = https://github.com/MasterQ32/zig-network
+[submodule "lib/zig-uri"]
+	path = lib/zig-uri
+	url = https://github.com/MasterQ32/zig-uri
