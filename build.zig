@@ -24,7 +24,7 @@ const dependencies = &[_]std.build.Pkg{
     },
     .{
         .name = "network",
-        .path = .{ .path = "lib/zig-network/src/network.zig" },
+        .path = .{ .path = "lib/zig-network/network.zig" },
     },
     .{
         .name = "uri",
